@@ -1,0 +1,2 @@
+start host
+exit
